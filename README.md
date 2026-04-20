@@ -19,7 +19,7 @@ Se desarrolló un proceso de análisis exploratorio de datos (EDA) utilizando Py
 Posteriormente, se construyeron visualizaciones que permitieron identificar patrones relevantes, tales como la concentración de inversiones y la distribución geográfica. Finalmente, se desarrolló un dashboard interactivo en Power BI para sintetizar los principales hallazgos.
 
 ## Resultados
-El análisis evidencia una fuerte concentración de inversiones en el mercado local, representando más del 99% del total. Asimismo, se observa una alta dependencia de instrumentos como títulos públicos y fondos comunes de inversión, lo que refleja un perfil conservador y una baja diversificación internacional.
+El análisis evidencia una fuerte concentración de inversiones en el mercado local, representando más del 99% del total. Asimismo, se observa una alta dependencia de instrumentos como títulos públicos y fondos comunes de inversión, lo que refleja un perfil conservador y una baja diversificación internacional, lo que podría implicar una mayor exposición al riesgo sistémico.
 
 ## Herramientas utilizadas
 - Python (pandas, matplotlib, seaborn)
